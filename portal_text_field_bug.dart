@@ -61,6 +61,9 @@ class _PortalErrorState extends State<PortalError> {
           ),
         ));
   }
+  
+  
+  // check this only 
 
   TextField _searchField(BuildContext ctx) {
     return TextField(
@@ -84,6 +87,11 @@ class _PortalErrorState extends State<PortalError> {
   }
 }
 
+
+
+
+
+// ur normal modal
 class Modal extends StatelessWidget {
   const Modal({
     Key? key,
